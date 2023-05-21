@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Typescript, Flutter and various Computer Science courses**
 
-- 👯 I’m looking to collaborate on **any projects to get started within Machine Learning/A.I and/or blockchain technology.**
+- 👯 I’m looking to collaborate on **any projects to get started within Machine Learning/A.I and Cryptocurrencies/Blockchain technology.**
 
-- 🤝 I’m looking for help with **getting a software development role within an ambitious start-up/SME in New Zealand (willing to relocate for the right role 📍)..**
+- 🤝 I’m looking for help with **getting a software development role within an ambitious start-up/SME in New Zealand (willing to relocate for the right role 📍).**
 
 - 👨‍💻 Some of my projects are available on [https://github.com/bobbynagra92](https://github.com/bobbynagra92)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gniIdfwGjNFH2Y70BqO3iXaQTZl0iuDc/view?usp=sharing](https://drive.google.com/file/d/1gniIdfwGjNFH2Y70BqO3iXaQTZl0iuDc/view?usp=sharing)
 
-- ⚡ Fun fact - **I have also started to create content online in my spare time..**
+- ⚡ Fun fact - **I have also started to create content online in my spare time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
