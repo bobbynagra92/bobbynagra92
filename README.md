@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any projects to get started within Machine Learning/A.I and Cryptocurrencies/Blockchain technology.**
 
-- 🤝 I’m looking for help with **getting a software development role within an ambitious start-up/SME in New Zealand (willing to relocate for the right role 📍).**
+- 🤝 I’m looking for help with **getting a software development role with an ambitious start-up/SME in New Zealand (willing to relocate for the right role 📍).**
 
 - 👨‍💻 Some of my projects are available on [https://github.com/bobbynagra92](https://github.com/bobbynagra92)
 
