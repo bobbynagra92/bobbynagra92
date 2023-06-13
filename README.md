@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript, Django, Flutter and various Computer Science courses**
 
-- 👯 I’m looking to collaborate on **any interesting start-ups which I can add my diverse business, engineering and tech skills too.**
+- 👯 I’m looking to collaborate on **any interesting start-ups which I can add value to through my diverse business, engineering and tech skills.**
 
 - 🤝 I’m looking for help with **finding the right role with an ambitious Start-Up/SME in New Zealand (willing to relocate for the right role 📍).**
 
