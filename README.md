@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bobby.</h1>
-<h3 align="center">A passionate software developer living in Auckland.</h3>
+<h3 align="center">A Charted Engineer and passionate Software Developer relocating to Auckland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbynagra92&label=Profile%20views&color=0e75b6&style=flat" alt="bobbynagra92" /> </p>
 
 - 🔭 I’m currently working on **open-source full-stack web apps.**
 
-- 🌱 I’m currently learning **Typescript, Flutter and various Computer Science courses**
+- 🌱 I’m currently learning **Typescript, Django, Flutter and various Computer Science courses**
 
-- 👯 I’m looking to collaborate on **any projects to get started within Machine Learning/A.I and Cryptocurrencies/Blockchain technology.**
+- 👯 I’m looking to collaborate on **any interesting start-ups which I can add my diverse business, engineering and tech skills too.**
 
-- 🤝 I’m looking for help with **getting a software development role with an ambitious start-up/SME in New Zealand (willing to relocate for the right role 📍).**
+- 🤝 I’m looking for help with **finding the right role with an ambitious Start-Up/SME in New Zealand (willing to relocate for the right role 📍).**
 
 - 👨‍💻 Some of my projects are available on [https://github.com/bobbynagra92](https://github.com/bobbynagra92)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gniIdfwGjNFH2Y70BqO3iXaQTZl0iuDc/view?usp=sharing](https://drive.google.com/file/d/1gniIdfwGjNFH2Y70BqO3iXaQTZl0iuDc/view?usp=sharing)
 
-- ⚡ Fun fact - **I have also started to create content online in my spare time.**
+- ⚡ Fun fact - **I started and ran a successful property development business in the UK, before embarking on this new adventure.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
