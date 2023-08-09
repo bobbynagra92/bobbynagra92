@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any interesting start-ups which I can add value to through my diverse business, engineering and tech skills.**
 
-- 🤝 I’m looking for help with **finding the right role with an ambitious Start-Up/SME in New Zealand (willing to relocate for the right role 📍).**
+- 🤝 I’m looking for help with **finding the right role with an ambitious Start-Up/SME in the UK (willing to relocate for the right role 📍).**
 
 - 👨‍💻 Some of my projects are available on [https://github.com/bobbynagra92](https://github.com/bobbynagra92)
 
