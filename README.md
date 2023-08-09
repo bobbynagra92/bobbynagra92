@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gniIdfwGjNFH2Y70BqO3iXaQTZl0iuDc/view?usp=sharing](https://drive.google.com/file/d/1gniIdfwGjNFH2Y70BqO3iXaQTZl0iuDc/view?usp=sharing)
 
-- ⚡ Fun fact - **I started and ran a successful property development business in the UK, before embarking on this new adventure.**
+- ⚡ Fun fact - **Before moving into the tech industry, I started and ran a successful property development business.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
