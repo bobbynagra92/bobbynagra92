@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bobby.</h1>
-<h3 align="center">A Chartered Engineer, Project Manager, Entrepreneur and passionate Software Developer currently relocating to New Zealand.</h3>
+<h3 align="center">A Chartered Engineer, Project Manager, Entrepreneur and passionate Software Developer based in the UK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbynagra92&label=Profile%20views&color=0e75b6&style=flat" alt="bobbynagra92" /> </p>
 
